@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saint Joseph's College of Baggao</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <img src="logo.png" alt="SJCBI"
+        class="logo">
+    </header>
+
+    <main>
+        <section class="content">
+            <label class="card">
+                <h2>Mission</h2>
+                <p class="hidden-content">
+                    1. SPIRITUALITY
+<br>
+                    <br>
+                    To be witnesses of our faith by cultivating a spirituality rooted on the Word of God, nourished by the sacraments, and lived in humble loving service especially to the poor
+                    <br>
+<br>
+                    2. TRANSFORMATIVE EDUCATION
+<br>
+                    <br>
+                    To provide Catholic education leading to a conversion that transforms persons and communities.
+                    <br>
+<br>
+                    3. ADVOCACY
+                    <br>
+<br>
+                    To uphold the principles of social justice, peace, truth and ecological stewardship towards an engaged citizenship.
+                    <br>
+<br>
+                    4. RESEARCH
+                    <br>
+<br>
+                    To foster a vibrant and stimulating culture of research.
+                    <br>
+<br>
+                    5. SYNODALITY
+                    <br>
+<br>
+                    To promote a culture of care, dialogue, and collaboration among all the stakeholders as a dynamic participation in the life and mission of the Church
+                </p>
+            </label>
+
+            <label class="card">
+                <h2>Vision</h2>
+                <p class="hidden-content">
+                    SJCBI as a premier Catholic Higher Educational Institution in Northern Philippines is Christ-centered, inspired by the spirit of synodality that fosters communion and participation in the evangelizing mission of the Church through transformative education.
+                </p>
+            </label>
+
+            <label class="card">
+                <h2>Values</h2>
+                <p class="hidden-content">
+                    <strong>J-esus centered</strong>  <br>
+                    <strong>O-ption for the poor</strong> . <br>
+                    <strong>S-teward of creation</strong> . <br>
+                    <strong>E-thical</strong> .<br>
+                    <strong>P-roficient</strong> . <br>
+                    <strong>H-olistic</strong> .<br>
+                    <strong>I-novative</strong> . <br>
+                    <strong>A-doptability</strong> .<br>
+                    <strong>N-urturing</strong> .<br>
+                </p>
+            </label>
+        </section>
+    </main>
+
+</body>
+</html>
